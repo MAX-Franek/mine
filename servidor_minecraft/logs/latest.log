@@ -1,0 +1,137 @@
+[17:36:36] [ServerMain/INFO]: Building unoptimized datafixer
+[17:36:38] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:36:41] [ServerMain/INFO]: Loaded 7 recipes
+[17:36:41] [ServerMain/INFO]: Loaded 1179 advancements
+[17:36:42] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[17:36:42] [Server thread/INFO]: Loading properties
+[17:36:42] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:42] [Server thread/INFO]: Generating keypair
+[17:36:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:43] [Server thread/INFO]: Using epoll channel type
+[17:36:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:36:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:36:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:36:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:36:43] [Server thread/INFO]: Preparing level "world"
+[17:36:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:37:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:03] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:03] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:03] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:08] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:13] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:13] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:14] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:14] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:16] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:17] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:17] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:18] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:18] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:19] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:19] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:20] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:20] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:23] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:29] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:29] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:30] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:30] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:32] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:32] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:37] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:37] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:37:51] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[17:37:51] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[17:37:51] [Worker-Main-10/INFO]: Preparing spawn area: 27%
+[17:37:52] [Worker-Main-10/INFO]: Preparing spawn area: 31%
+[17:37:52] [Worker-Main-10/INFO]: Preparing spawn area: 31%
+[17:37:53] [Worker-Main-10/INFO]: Preparing spawn area: 40%
+[17:37:53] [Worker-Main-10/INFO]: Preparing spawn area: 42%
+[17:37:54] [Worker-Main-10/INFO]: Preparing spawn area: 53%
+[17:37:54] [Worker-Main-10/INFO]: Preparing spawn area: 54%
+[17:37:54] [Worker-Main-10/INFO]: Preparing spawn area: 63%
+[17:37:55] [Worker-Main-10/INFO]: Preparing spawn area: 70%
+[17:37:55] [Worker-Main-10/INFO]: Preparing spawn area: 73%
+[17:37:56] [Worker-Main-10/INFO]: Preparing spawn area: 79%
+[17:37:57] [Worker-Main-10/INFO]: Preparing spawn area: 90%
+[17:37:57] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[17:37:59] [Server thread/INFO]: Time elapsed: 59844 ms
+[17:37:59] [Server thread/INFO]: Done (75.733s)! For help, type "help"
+[17:38:51] [Server thread/INFO]: julianperezxd[/127.38.85.90:46329] logged in with entity id 300 at (-6.5, 73.0, 4.5)
+[17:38:51] [Server thread/INFO]: julianperezxd joined the game
